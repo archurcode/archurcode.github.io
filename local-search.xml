@@ -4,38 +4,13 @@
   
   
   <entry>
-    <title>java</title>
-    <link href="/2022/09/09/java/"/>
-    <url>/2022/09/09/java/</url>
-    
-    <content type="html"><![CDATA[<p>测试图片</p><img src="/2022/09/09/java/test.jpg" class="" title="This is an example image">]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>test.md</title>
-    <link href="/2022/09/09/test-md/"/>
-    <url>/2022/09/09/test-md/</url>
+    <title>Jetpack Compose入门</title>
+    <link href="/2022/09/13/Jetpack-Compose%E5%85%A5%E9%97%A8/"/>
+    <url>/2022/09/13/Jetpack-Compose%E5%85%A5%E9%97%A8/</url>
     
     <content type="html"><![CDATA[]]></content>
     
     
-    <categories>
-      
-      <category>android</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>droid</tag>
-      
-    </tags>
     
   </entry>
   
